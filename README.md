@@ -2,7 +2,7 @@
 
 **Desenvolvedor**
 
-Opa, me chamo Guilherme Colodel, tenho 18 anos e sou de Curitiba. Atualmente estou cursando Análise e Desenvolvimento de Sistemas. Também tenho cursos complementares em linguagens de programação como HTML, CSS, JavaScript e Node.js.
+Opa, me chamo Guilherme Colodel, tenho 18 anos e sou de Curitiba. Atualmente estou cursando Análise e Desenvolvimento de Sistemas. Também tenho cursos complementares em linguagens de programação como JavaScript, Node.js e React.
 
 ---
 
